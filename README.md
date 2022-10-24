@@ -1,1 +1,1 @@
-# Stripe-homePage
+# stripe-clone
